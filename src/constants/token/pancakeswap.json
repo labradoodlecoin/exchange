@@ -1,0 +1,49 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": [
+    "pancake",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "LabraDoodle Coin",
+      "symbol": "LABRAD",
+      "address": "0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "/images/coins/LABRAD.png"
+
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTC.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "LabraDoodle Coin",
+      "symbol": "LABRAD",
+      "address": "0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
+      "chainId": 97,
+      "decimals": 9
+    }
+  ]
+}
